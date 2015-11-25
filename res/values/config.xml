@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="prefs_name">configs</string>
+    <string name="default_color_scheme">vulcan</string>
+    <string name="default_composition">5.14,7.18,-3.06</string>
+
+    <string-array name="color_schemes">
+        <item>vulcan</item>
+        <item>ariana</item>
+        <item>indra</item>
+        <item>neo</item>
+        <item>nyx</item>
+    </string-array>
+
+    <!-- nyx -->
+    <color name="color_scheme_nyx">#ce0000</color>
+    <color name="color_scheme_nyx_dim">#960000</color>
+    <!-- vulcan -->
+    <color name="color_scheme_vulcan">#ffda97</color>
+    <color name="color_scheme_vulcan_dim">#a21900</color>
+    <!-- neo -->
+    <color name="color_scheme_neo">#9ae3ff</color>
+    <color name="color_scheme_neo_dim">#0033ae</color>
+    <!-- ariana -->
+    <color name="color_scheme_ariana">#c7c7c7</color>
+    <color name="color_scheme_ariana_dim">#7b7b7b</color>
+    <!-- indra -->
+    <color name="color_scheme_indra">#00dbd8</color>
+    <color name="color_scheme_indra_dim">#007d81</color>
+    
+</resources>

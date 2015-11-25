@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">nyx</string>
+    <string name="nyx_dials">nyx dials</string>
+    <string name="configure_me">Config me honey!</string>
+    <string name="dimming_info">The NYX day dream changes color in the range shown based on the current ambient light.</string>
+    <!-- color scheme names should not be translated -->
+    <string name="color_scheme_nyx">nyx</string>
+    <string name="color_scheme_vulcan">vulcan</string>
+    <string name="color_scheme_neo">neo</string>
+    <string name="color_scheme_ariana">ariana</string>
+    <string name="color_scheme_indra">indra</string>
+
+</resources>
